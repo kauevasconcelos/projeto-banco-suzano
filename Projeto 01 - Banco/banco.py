@@ -52,7 +52,7 @@ while True:
             extrato.append(f"Depósito de {deposito}")
 
     elif escolha == "e": #Usuário escolheu consultar seu extrato
-        print("=========EXTRATO=========")
+        print("========EXTRATO========")
         if extrato:
             for operacao in extrato:
                 print(operacao)

@@ -76,3 +76,4 @@ def lista_compras(*produtos, **info_extra):
     
 lista_compras("Arroz", "Feijão", "Macarrão", pagamento="Cartão", total="R$ 45,00")
 
+
